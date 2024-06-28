@@ -1,10 +1,10 @@
-Flask Health & Nutrition App Documentation
+Flask Health & Nutrition App Documentation:
 
 Overview
 
 This Flask application assists users in calculating their daily calorie needs and finding recipes based on input ingredients and selected meal types. It considers factors like age, height, weight, gender, activity level, and any medical issues. The application uses a dataset called `Nutritional Data.xlsx` to extract food names and their energy values (in Kcal), and JSON files to manage ingredients with their respective measures and units.
 
-Setup Instructions:
+Setup Instructions
 
 Prerequisites
 
@@ -225,3 +225,106 @@ Contributions are welcome! Fork the repository, make your changes, and submit a 
 Contact
 
 For questions or support, open an issue in the repository or contact the maintainer at dsbhatt1234@gmail.com.
+
+
+
+
+BMR and Calorie Needs Calculation Documentation:
+
+Overview
+The Basal Metabolic Rate (BMR) calculation estimates the number of calories required to keep the body functioning at rest. This value can be adjusted to account for different activity levels to determine total daily calorie needs.
+
+Equations Used
+
+1. Mifflin-St Jeor Equation for BMR:
+    - For men:
+    \[ BMR = 10 \times \text{weight in kg} + 6.25 \times \text{height in cm} - 5 \times \text{age} + 5 \]
+    - For women:
+    \[ BMR = 10 \times \text{weight in kg} + 6.25 \times \text{height in cm} - 5 \times \text{age} - 161 \]
+
+2. Total Daily Calorie Needs:
+    - The BMR is multiplied by an activity multiplier that reflects the user's activity level to estimate total daily calorie needs.
+
+Implementation in `app.py`
+
+Below is the specific code snippet from `app.py` that performs the BMR and calorie needs calculation:
+
+```python
+@app.route('/', methods=['GET', 'POST'])
+@csrf.exempt
+def index():
+    if request.method == 'POST':
+        try:
+            # Read form inputs
+            age = int(request.form['age'])
+            height_cm = float(request.form['height_cm'])
+            weight_kg = float(request.form['weight_kg'])
+            gender = request.form['gender']
+            activity_level = request.form['activity_level']
+            selected_meal_type = request.form['meal_types']
+
+            if gender not in genders or activity_level not in activity_multipliers.keys():
+                raise ValueError("Invalid input")
+
+            # Calculate BMR and calorie needs
+            if gender == 'Male':
+                bmr = 10 * weight_kg + 6.25 * height_cm - 5 * age + 5
+            else:
+                bmr = 10 * weight_kg + 6.25 * height_cm - 5 * age - 161
+
+            calorie_needs = bmr * activity_multipliers[activity_level]
+```
+
+Explanation of the BMR and Calorie Needs Calculation Steps
+
+1. Extract User Input:
+    - `data = request.json` extracts the user input from the JSON body of the request.
+    - `gender`, `age`, `height_cm`, `weight_kg`, and `activity_level` are extracted from the input data.
+
+2. Define Activity Multipliers:
+    - `activity_multipliers` is a dictionary that maps activity levels to corresponding multipliers.
+        - Sedentary (little or no exercise): `1.2`
+        - Moderately active (moderate exercise/sports 3-5 days/week): `1.55`
+        - Active (hard exercise/sports 6-7 days a week): `1.725`
+
+3. Calculate BMR:
+    - This checks the gender and uses the corresponding Mifflin-St Jeor equation to calculate the BMR.
+        - For men: 
+        \[ BMR = 10 \times \text{weight in kg} + 6.25 \times \text{height in cm} - 5 \times \text{age} + 5 \]
+        - For women: 
+        \[ BMR = 10 \times \text{weight in kg} + 6.25 \times \text{height in cm} - 5 \times \text{age} - 161 \]
+
+4. Calculate Total Daily Calorie Needs:
+    - The BMR is multiplied by the appropriate activity multiplier to estimate the total daily calorie needs:
+        - `calorie_needs = bmr * activity_multipliers[activity_level]`
+
+5. Return Results:
+    - The calculated BMR and total daily calorie needs are returned as a JSON response.
+
+
+Example Usage
+
+When a user submits the form with their details, the front-end JavaScript sends a POST request to the `/` endpoint with the user’s age, gender, height, weight, and activity level.
+
+Example request payload:
+```json
+{
+    "gender": "Male",
+    "age": 30,
+    "height_cm": 175,
+    "weight_kg": 70,
+    "activity_level": "moderately_active"
+}
+```
+
+Example response:
+```json
+{
+    "bmr": 1665.0,
+    "calorie_needs": 2580.75
+}
+```
+
+Summary
+
+The BMR and total daily calorie needs calculation in the `index` function of `app.py` uses the Mifflin-St Jeor equation, adjusted for gender, to estimate BMR. This BMR is then multiplied by an activity multiplier based on the user’s activity level to determine the total daily calorie needs. The function extracts user inputs, performs the calculations, and returns the results as a JSON response. This documentation explains the purpose and process of each step to help developers understand and maintain the code.
