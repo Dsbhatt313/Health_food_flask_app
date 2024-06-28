@@ -229,6 +229,13 @@ For questions or support, open an issue in the repository or contact the maintai
 
 
 
+
+
+
+
+
+
+
 BMR and Calorie Needs Calculation Documentation:
 
 Overview
