@@ -1,0 +1,11 @@
+{
+    "bean flour": {
+                    "measure": 250,
+                    "unit": "grams"
+    },
+
+    "gram flour": {
+                    "measure": 50,
+                    "unit": "gram"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "chocolate": {
+                    "measure": 50,
+                    "unit": "grams"
+    },
+
+    "gelatine": {
+                    "measure": 10,
+                    "unit": "grams"
+    },
+
+    "cream": {
+                    "measure": 950,
+                    "unit": "ml"
+    },
+
+    "sugar": {
+                    "measure": 50,
+                    "unit": "grams"
+    }
+}

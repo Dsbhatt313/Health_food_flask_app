@@ -1,0 +1,31 @@
+{
+    "flour": {
+                    "measure": 1,
+                    "unit": "cup"
+    },
+
+    "onion": {
+                    "measure": 1,
+                    "unit": "whole"
+    },
+
+    "tomato": {
+                    "measure": 1,
+                    "unit": "whole"
+    },
+
+    "paneer": {
+                    "measure": 100,
+                    "unit": "gram"
+    },
+
+    "mayonnaise": {
+                    "measure": 28,
+                    "unit": "gram"
+    },
+
+    "cheese": {
+                    "measure": 1,
+                    "unit": "slice"
+    }
+}

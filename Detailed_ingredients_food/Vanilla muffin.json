@@ -1,0 +1,31 @@
+{
+    "flour": {
+                    "measure": 2.5,
+                    "unit": "cups"
+    },
+
+    "butter": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    },
+
+    "sugar": {
+                    "measure": 1.25,
+                    "unit": "cups"
+    },
+
+    "egg": {
+                    "measure": 3,
+                    "unit": "whole"
+    },
+
+    "cream": {
+                    "measure": 0.75,
+                    "unit": "cup"
+    },
+
+    "yogurt": {
+                    "measure": 0.75,
+                    "unit": "cup"
+    }
+}

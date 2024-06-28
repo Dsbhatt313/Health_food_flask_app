@@ -1,0 +1,21 @@
+{
+    "veggies": {
+                    "measure": 2,
+                    "unit": "cups"
+    },
+
+    "peas": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    },
+
+    "buns": {
+                    "measure": 2,
+                    "unit": "halves"
+    },
+
+    "bread crumbs": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    }
+}

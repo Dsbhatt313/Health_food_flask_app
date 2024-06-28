@@ -1,0 +1,36 @@
+{
+    "green chilli": {
+                    "measure": 1,
+                    "unit": "whole"
+    },
+
+    "lettuce": {
+                    "measure": 1.25,
+                    "unit": "cup"
+    },
+
+    "carrot": {
+                    "measure": 1,
+                    "unit": "cup"
+    },
+
+    "onion": {
+                    "measure": 0.25,
+                    "unit": "cup"
+    },
+
+    "bell pepper": {
+                    "measure": 0.25,
+                    "unit": "cup"
+    },
+
+    "buns": {
+        "measure": 2,
+        "unit": "halves"
+    },
+
+    "potato": {
+                    "measure": 3,
+                    "unit": "whole"
+    }
+}

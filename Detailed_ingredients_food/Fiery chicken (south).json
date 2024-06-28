@@ -1,0 +1,46 @@
+{
+   "onion": {
+                "measure": 250,
+                "unit": "gram"
+   },
+   
+   "ginger": {
+                "measure": 50,
+                "unit": "gram"
+   },
+
+   "garlic": {
+                "measure": 50,
+                "unit": "gram"
+   },
+
+   "coconut": {
+                "measure": 100,
+                "unit": "gram"
+   },
+
+   "chicken": {
+                "measure": 500,
+                "unit": "gram"
+   },
+
+   "tomato": {
+                "measure": 100,
+                "unit": "gram"
+   },
+
+   "seeds": {
+                "measure": 70,
+                "unit": "gram"
+   },
+
+   "curry leaves": {
+                "measure": 2,
+                "unit": "leaves"
+   },
+
+   "coriander": {
+                "measure": 25,
+                "unit": "gram"
+   }
+}

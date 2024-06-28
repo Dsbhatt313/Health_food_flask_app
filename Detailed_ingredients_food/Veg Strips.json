@@ -1,0 +1,41 @@
+{
+    "green chilli": {
+                    "measure": 2,
+                    "unit": "whole"
+    },
+
+    "onion": {
+                    "measure": 1,
+                    "unit": "whole"
+    },
+
+    "carrot": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    },
+
+    "corn": {
+                    "measure": 0.3,
+                    "unit": "cup"
+    },
+
+    "peas": {
+                    "measure": 0.3,
+                    "unit": "cup"
+    },
+
+    "potato": {
+                    "measure": 2,
+                    "unit": "whole"
+    },
+
+    "flour": {
+                    "measure": 0.25,
+                    "unit": "cup"
+    },
+
+    "bread crumbs": {
+                    "measure": 2,
+                    "unit": "cup"
+    }
+}

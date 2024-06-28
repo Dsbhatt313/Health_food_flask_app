@@ -1,0 +1,46 @@
+{
+    "chicken": {
+                    "measure": 250,
+                    "unit": "gram"
+    },
+
+    "potato": {
+                    "measure": 375,
+                    "unit": "gram"
+    },
+
+    "green chilli": {
+                    "measure": 3,
+                    "unit": "whole"
+    },
+
+    "onion": {
+                    "measure": 2,
+                    "unit": "whole"
+    },
+
+    "tomato": {
+                    "measure": 2,
+                    "unit": "whole"
+    },
+
+    "mint": {
+                    "measure": 5,
+                    "unit": "sprigs"
+    },
+
+    "cheese": {
+                    "measure": 56,
+                    "unit": "gram"
+    },
+
+    "milk": {
+                    "measure": 1,
+                    "unit": "cup"
+    },
+
+    "garlic": {
+                    "measure": 2,
+                    "unit": "cloves"
+    }
+}

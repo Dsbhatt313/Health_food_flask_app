@@ -1,0 +1,16 @@
+{
+    "ice cream": {
+                    "measure": 453.6,
+                    "unit": "gram"
+    },
+
+    "milk": {
+                    "measure": 1,
+                    "unit": "cup"
+    },
+
+    "cookie": {
+                    "measure": 4,
+                    "unit": "pieces"
+    }
+}

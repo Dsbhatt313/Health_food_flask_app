@@ -1,0 +1,16 @@
+{
+    "flour": {
+                    "measure": 1,
+                    "unit": "cup"
+    },
+
+    "oil": {
+                    "measure": 2.5,
+                    "unit": "cups"
+    },
+
+    "udad dal": {
+                    "measure": 40,
+                    "unit": "grams"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "flour": {
+                    "measure": 2,
+                    "unit": "cups"
+    },
+
+    "cheese": {
+                    "measure": 2,
+                    "unit": "cups"
+    },
+    "bbq sauce": {
+                    "measure": 1,
+                    "unit": "cup"
+    },
+
+    "chicken": {
+                    "measure": 2,
+                    "unit": "halves"
+    },
+
+    "pepproni": {
+                    "measure": 1,
+                    "unit": "cup"
+    },
+
+    "cilantro": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    }
+}

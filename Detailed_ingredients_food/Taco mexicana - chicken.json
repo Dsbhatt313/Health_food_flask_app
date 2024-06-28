@@ -1,0 +1,21 @@
+{
+    "chicken": {
+                    "measure": 250,
+                    "unit": "grams"
+    },
+
+    "onion": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    },
+
+    "green chilli": {
+                    "measure": 1,
+                    "unit": "whole"
+    },
+
+    "garlic": {
+                    "measure": 4,
+                    "unit": "cloves"
+    }
+}

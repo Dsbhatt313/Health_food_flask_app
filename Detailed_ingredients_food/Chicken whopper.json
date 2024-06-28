@@ -1,0 +1,51 @@
+{
+    "chicken": {
+                    "measure": 200,
+                    "unit": "gram"
+    },
+
+    "onion": {
+                    "measure": 0.25,
+                    "unit": "cup"
+    },
+
+    "jalapeno": {
+                    "measure": 5,
+                    "unit": "slices"
+    },
+
+    "bread crumbs": {
+                    "measure": 0.25,
+                    "unit": "cup"
+    },
+
+    "egg": {
+                    "measure": 1,
+                    "unit": "piece"
+    },
+
+    "buns": {
+                    "measure": 2,
+                    "unit": "halfves"
+    },
+
+    "mayonnaise": {
+                    "measure": 1,
+                    "unit": "cup"
+    },
+
+    "gherkins": {
+                    "measure": 5,
+                    "unit": "slices"
+    },
+    
+    "lettuce": {
+                    "measure": 1,
+                    "unit": "leaf"
+    },
+    
+    "tomato": {
+                    "measure": 2,
+                    "unit": "slices"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "flour": {
+                    "measure": 1.5,
+                    "unit": "cup"
+    },
+
+    "makhana": {
+                    "measure": 1,
+                    "unit": "cup"
+    },
+
+    "cashews": {
+                    "measure": 8,
+                    "unit": "pieces"
+    },
+
+    "almonds": {
+                    "measure": 8,
+                    "unit": "pieces"
+    },
+
+    "jaggery powder": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    },
+
+    "choco spread": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    }
+}

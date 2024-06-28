@@ -1,0 +1,31 @@
+{
+    "pasta": {
+                    "measure": 1,
+                    "unit": "cup"
+    },
+
+    "peas": {
+                    "measure": 0.25,
+                    "unit": "cup"
+    },
+
+    "green onion": {
+                    "measure": 2,
+                    "unit": "stalks"
+    },
+
+    "schezwan": {
+                    "measure": 15,
+                    "unit": "grams"
+    },
+
+    "chicken": {
+                    "measure": 0.5,
+                    "unit": "pound"
+    },
+
+    "garlic": {
+                    "measure": 6,
+                    "unit": "cloves"
+    }
+}

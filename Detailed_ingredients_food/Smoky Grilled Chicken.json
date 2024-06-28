@@ -1,0 +1,11 @@
+{
+    "sugar": {
+                    "measure": 0.25,
+                    "unit": "cup"
+    },
+
+    "chicken": {
+                    "measure": 2,
+                    "unit": "pounds"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "heavy cream": {
+                    "measure": 1.5,
+                    "unit": "cup"
+    },
+
+    "milk": {
+                    "measure": 1.5,
+                    "unit": "cup"
+    },
+
+    "sugar": {
+                    "measure": 0.6,
+                    "unit": "cup"
+    },
+
+    "chocolate": {
+                    "measure": 250,
+                    "unit": "gram"
+    },
+
+    "coconut oil": {
+                    "measure": 200,
+                    "unit": "gram"
+    },
+
+    "corn syrup": {
+                    "measure": 125,
+                    "unit": "gram"
+    }
+}

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>About the App</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="/">Home</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+    </nav>
+
+    <div class="container mt-5">
+        <header class="text-center">
+            <h1>About the App</h1>
+        </header>
+        <section class="mt-4">
+            <h2>Introduction</h2>
+            <p>This application is designed to help users calculate their daily calorie needs based on their personal information, activity levels, and meal preferences. It also assists in finding recipes that match the user's input ingredients and meet their calorie requirements.</p>
+        </section>
+        
+        <section class="mt-4">
+            <h2>Features</h2>
+            <ul>
+                <li><strong>Calorie Calculation:</strong> Using user-provided data such as age, gender, height, weight, and activity level, the app calculates the Basal Metabolic Rate (BMR) and the total daily calorie needs.</li>
+                <li><strong>Recipe Matching:</strong> Based on the input ingredients, the app searches for recipes that fit within the user's meal calorie limits and displays them.</li>
+                <li><strong>Activity and Meal Tracking:</strong> Users can select their daily activities and meal types, which the app uses to tailor the calorie recommendations.</li>
+                <li><strong>Database Integration:</strong> The app stores user input data and retrieves nutritional information from an external database.</li>
+            </ul>
+        </section>
+
+        <section class="mt-4">
+            <h2>How It Works</h2>
+            <p>The app collects user input through a multi-step form. Each section of the form gathers specific data about the user:</p>
+            <ol>
+                <li><strong>Select Activities:</strong> Users choose their daily activities, which help determine their activity level.</li>
+                <li><strong>Activity Duration:</strong> The duration of each activity is selected, contributing to the overall activity level calculation.</li>
+                <li><strong>Personal Information:</strong> Users provide their gender, age, height, and weight.</li>
+                <li><strong>Meal Type and Preferences:</strong> The app asks for meal types, age intervals, and any medical issues that may affect diet.</li>
+                <li><strong>Ingredient Input:</strong> Users can enter ingredients they have, and the app will find matching recipes.</li>
+            </ol>
+            <p>Based on the provided information, the app calculates the user's calorie needs and suggests recipes that fit their dietary requirements.</p>
+        </section>
+
+        <section class="mt-4">
+            <h2>Technologies Used</h2>
+            <ul>
+                <li><strong>Flask:</strong> A lightweight Python web framework used to build the server-side of the application.</li>
+                <li><strong>HTML, CSS, and Bootstrap:</strong> Used for structuring and styling the web pages, ensuring a responsive and user-friendly interface.</li>
+                <li><strong>JavaScript:</strong> Enhances the user experience by enabling dynamic content and form validation.</li>
+                <li><strong>MySQL:</strong> A relational database used for storing user data and nutritional information.</li>
+                <li><strong>Pandas:</strong> A Python library for data manipulation and analysis, used for reading and processing the nutritional data from an Excel file.</li>
+            </ul>
+        </section>
+
+        <section class="mt-4">
+            <h2>About the Developer</h2>
+            <p>This application was developed by Dhruvansh Bhatt as a project for learning and practicing web development and data processing skills. The goal was to create a practical tool that combines various technologies to provide a useful service to users.</p>
+        </section>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

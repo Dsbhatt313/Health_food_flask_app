@@ -1,0 +1,31 @@
+{
+    "flour": {
+                    "measure": 2.5,
+                    "unit": "cups"
+    },
+
+    "cheese": {
+                    "measure": 150,
+                    "unit": "grams"
+    },
+
+    "sauce": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    },
+
+    "tomato": {
+                    "measure": 1,
+                    "unit": "whole"
+    },
+
+    "mushroom": {
+                    "measure": 3,
+                    "unit": "whole"
+    },
+
+    "bell pepper": {
+                    "measure": 1,
+                    "unit": "whole"
+    }
+}

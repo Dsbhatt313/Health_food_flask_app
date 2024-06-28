@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Calorie Needs Result</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container results">
+        <header><h1 style="color: white;">Calorie Needs Result</h1></header><br>
+        <h2>User Details</h2><hr>
+        <p><strong>Gender:</strong> {{ gender }}</p>
+        <p><strong>Age:</strong> {{ age }}</p>
+        <p><strong>Height:</strong> {{ height_cm }} cm</p>
+        <p><strong>Weight:</strong> {{ weight_kg }} kg</p>
+        <p><strong>Activity Level:</strong> {{ activity_level }}</p>
+        <p><strong>Meal Type:</strong> {{ meal_type }}</p>
+
+        <br><br>
+        <h2>Ingredients</h2><hr>
+        <p>{{ ingredients }}</p>
+
+        <br><br>
+        <h2>Matching Recipes</h2><hr>
+        <ul>
+            {% for recipe, calories in matching_recipes %}
+                <li>
+                    {% if recipe == closest_recipe %}
+                        <strong>{{ recipe }}: {{ calories }} Kcal (Closest)</strong>
+                    {% else %}
+                        {{ recipe }}: {{ calories }} Kcal
+                    {% endif %}
+                </li>
+            {% endfor %}
+        </ul>
+        <br>
+        <br>
+        <h2>Calorie Tracker</h2><hr>
+        <h3>Total Calories from Matching Recipes: {{ total_calories | round(2) }}</h3>
+        <h3>Total Calorie Need: {{ calorie_needs | round(2) }}</h3>
+        <h3>Calorie Limit based on Meal Type: {{ meal_calorie_limit }}</h3>
+        {% if closest_recipe %}
+            <h3>Suggested Recipe Closest to Meal Calorie Limit:</h3> {{ closest_recipe }}: {{ closest_calories }} Kcal
+        {% else %}
+            <h3>No suitable recipe found under the calorie limit.</h3>
+        {% endif %}
+        <br>
+        
+        <br>
+        <hr><hr>
+        {% if remaining_calories > 0 %}
+            <h3>You need {{ remaining_calories | round(2) }} more calories.</h3>
+        {% else %}
+            <p>Your calorie needs are met!</p>
+        {% endif %}
+        <hr><hr>
+        <br>
+        
+        <a href="/">Go back to the form</a>
+    </div>
+</body>
+</html>

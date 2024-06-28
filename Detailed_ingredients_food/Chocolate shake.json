@@ -1,0 +1,21 @@
+{
+    "milk": {
+                    "measure": 1,
+                    "unit": "cup"
+    },
+
+    "cocoa powder": {
+                    "measure": 15,
+                    "unit": "gram"
+    },
+
+    "sugar": {
+                    "measure": 4.2,
+                    "unit": "gram"
+    },
+
+    "ice": {
+                    "measure": 6,
+                    "unit": "cube"
+    }
+}

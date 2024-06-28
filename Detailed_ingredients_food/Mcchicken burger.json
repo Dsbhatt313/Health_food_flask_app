@@ -1,0 +1,26 @@
+{
+    "chicken": {
+                    "measure": 1,
+                    "unit": "pouns"
+    },
+
+    "flour": {
+                    "measure": 0.75,
+                    "unit": "cup"
+    },
+
+    "mayonnaise": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    },
+
+    "lettuce": {
+                    "measure": 1,
+                    "unit": "leaf"
+    },
+
+    "buns": {
+                    "measure": 2,
+                    "unit": "halves"
+    }
+}

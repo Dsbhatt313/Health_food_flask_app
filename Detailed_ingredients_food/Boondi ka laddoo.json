@@ -1,0 +1,16 @@
+{
+    "sugar": {
+                    "measure": 1.25,
+                    "unit": "cups"
+    },
+
+    "gram flour": {
+                    "measure": 1,
+                    "unit": "cup"
+    },
+
+    "cashews": {
+                    "measure": 30,
+                    "unit": "grams"
+    }
+}

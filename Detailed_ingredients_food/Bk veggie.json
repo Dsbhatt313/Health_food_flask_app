@@ -1,0 +1,56 @@
+{
+    "walnuts": {
+                    "measure": 1,
+                    "unit": "cup"
+    },
+    
+    "mushroom": {
+                    "measure": 8,
+                    "unit": "oz"
+    },
+
+    "onion": {
+                    "measure": 5.5,
+                    "unit": "oz"
+    },
+
+    "garlic": {
+                    "measure": 2,
+                    "unit": "cloves"
+    },
+
+    "bell pepper": {
+                    "measure": 4,
+                    "unit": "oz"
+    },
+
+    "red wine": {
+                    "measure": 0.25,
+                    "unit": "cup"
+    },
+
+    "flour": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    },
+
+    "beans" : {
+                    "measure": 1,
+                    "unit": "cup"
+    },
+
+    "brown rice": {
+                    "measure": 1,
+                    "unit": "cup"
+    },
+
+    "barbeque sauce": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    },
+
+    "buns": {
+                    "measure": 2,
+                    "unit": "halfves"
+    }
+}

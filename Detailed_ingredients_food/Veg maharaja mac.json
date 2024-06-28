@@ -1,0 +1,46 @@
+{
+    "potato": {
+                    "measure": 3,
+                    "unit": "whole"
+    },
+
+    "corn": {
+                    "measure": 0.25,
+                    "unit": "cup"
+    },
+
+    "cheese": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    },
+
+    "flour": {
+                    "measure": 16,
+                    "unit": "gram"
+    },
+
+    "bread crumbs": {
+                    "measure": 0.25,
+                    "unit": "cup"
+    },
+
+    "onion": {
+                    "measure": 5,
+                    "unit": "slices"
+    },
+
+    "lettuce": {
+                    "measure": 2,
+                    "unit": "leafs"
+    },
+
+    "jalapenos": {
+                    "measure": 4,
+                    "unit": "pieces"
+    },
+
+    "buns": {
+                    "measure": 3,
+                    "unit": "halves"
+    }
+}

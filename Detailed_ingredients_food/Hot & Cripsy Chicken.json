@@ -1,0 +1,16 @@
+{
+    "chicken": {
+                    "measure": 250,
+                    "unit": "grams"
+    },
+
+    "egg": {
+                    "measure": 1,
+                    "unit": "whole"
+    },
+
+    "flour": {
+                    "measure": 1,
+                    "unit": "cup"
+    }
+}

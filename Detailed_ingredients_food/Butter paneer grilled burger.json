@@ -1,0 +1,36 @@
+{
+    "curd": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    },
+
+    "paneer": {
+                    "measure": 150,
+                    "unit": "grams"
+    },
+
+    "butter": {
+                    "measure": 28,
+                    "unit": "grams"
+    },
+
+    "onion": {
+                    "measure": 1,
+                    "unit": "whole"
+    },
+
+    "green chilli": {
+                    "measure": 2,
+                    "unit": "whole"
+    },
+
+    "tomato puree": {
+                    "measure": 200,
+                    "unit": "ml"
+    },
+
+    "buns": {
+                    "measure": 2,
+                    "unit": "halves"
+    }
+}

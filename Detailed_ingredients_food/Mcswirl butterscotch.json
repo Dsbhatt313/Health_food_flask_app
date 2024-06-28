@@ -1,0 +1,26 @@
+{
+    "sugar": {
+                    "measure": 1,
+                    "unit": "cup"
+    },
+
+    "butter": {
+                    "measure": 28,
+                    "unit": "grams"
+    },
+
+    "cream": {
+                    "measure": 1.5,
+                    "unit": "grams"
+    },
+
+    "milk": {
+                    "measure": 2,
+                    "unit": "cups"
+    },
+
+    "egg": {
+                    "measure": 6,
+                    "unit": "yolks"
+    }
+}

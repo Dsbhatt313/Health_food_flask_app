@@ -1,0 +1,11 @@
+{
+    "peanuts": {
+                    "measure": 0.25,
+                    "unit": "cup"
+    },
+
+    "makhana": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    }
+}

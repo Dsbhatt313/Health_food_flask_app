@@ -1,0 +1,26 @@
+{
+    "pasta": {
+                    "measure": 1,
+                    "unit": "cup"
+    },
+
+    "milk": {
+                    "measure": 1.5,
+                    "unit": "cups"
+    },
+
+    "cheese": {
+                    "measure": 0.25,
+                    "unit": "cup"
+    },
+
+    "flour": {
+                    "measure": 12,
+                    "unit": "grams"
+    },
+
+    "garlic": {
+                    "measure": 2,
+                    "unit": "cloves"
+    }
+}

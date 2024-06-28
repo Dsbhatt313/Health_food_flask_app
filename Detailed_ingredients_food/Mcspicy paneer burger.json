@@ -1,0 +1,41 @@
+{
+    "paneer": {
+                    "measure": 100,
+                    "unit": "grams"
+    },
+
+    "cheese": {
+                    "measure": 2,
+                    "unit": "slices"
+    },
+
+    "flour": {
+                    "measure": 0.25,
+                    "unit": "cup" 
+    },
+
+    "bread crumbs": {
+                    "measure": 1,
+                    "unit": "cup"
+    },
+
+    "onion": {
+                    "measure": 1.5,
+                    "unit": "whole"
+    },
+
+    "coriander": {
+                    "measure": 1,
+                    "unit": "cup"
+    },
+
+    "buns": {
+                    "measure": "2",
+                    "unit": "halfves"
+    },
+
+    "green chilli": {
+                    "measure": 2,
+                    "unit": "whole"
+    }
+}

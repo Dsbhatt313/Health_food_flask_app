@@ -1,0 +1,41 @@
+{
+    "bread": {
+                    "measure": 12,
+                    "unit": "slices"
+    },
+
+    "garlic": {
+                    "measure": 6,
+                    "unit": "cloves"
+    },
+
+    "butter": {
+                    "measure": 45,
+                    "unit": "grams"
+    },
+
+    "onion": {
+                    "measure": 40,
+                    "unit": "grams"
+    },
+
+    "green chilli": {
+                    "measure": 2,
+                    "unit": "whole"
+    },
+
+    "cheese": {
+                    "measure": 75,
+                    "unit": "grams"
+    },
+    
+    "tomato": {
+                    "measure": 30,
+                    "unit": "grams"
+    },
+
+    "bell pepper": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    }
+}

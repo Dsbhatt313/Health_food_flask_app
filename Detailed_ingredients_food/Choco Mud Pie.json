@@ -1,0 +1,26 @@
+{
+    "butter": {
+                    "measure": 160,
+                    "unit": "grams"
+    },
+
+    "chocolate": {
+                    "measure": 500,
+                    "unit": "grams"
+    },
+
+    "egg": {
+                    "measure": 1,
+                    "unit": "whole"
+    },
+
+    "sugar": {
+                    "measure": 85,
+                    "unit": "grams"
+    },
+
+    "cream": {
+                    "measure": 250,
+                    "unit": "ml"
+    }
+}

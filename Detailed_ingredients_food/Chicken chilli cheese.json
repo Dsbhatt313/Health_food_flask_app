@@ -1,0 +1,46 @@
+{
+    "chicken": {
+                    "measure": 2,
+                    "unit": "pieces"
+    },
+
+    "corn": {
+                    "measure": 11,
+                    "unit": "oz"
+    },
+
+    "beans": {
+                    "measure": 15,
+                    "unit": "oz"
+    },
+
+    "tomato": {
+                    "measure": 10,
+                    "unit": "oz"
+    },
+    
+    "green chilli": {
+                    "measure": 10,
+                    "unit": "oz"
+    },
+
+    "chicken broth": {
+                    "measure": 2,
+                    "unit": "cups"
+    },
+
+    "bacon": {
+                    "measure": 1,
+                    "unit": "cup"
+    },
+
+    "cheese": {
+                    "measure": 1,
+                    "unit": "oz"
+    },
+
+    "cream cheese": {
+                    "measure": 8,
+                    "unit": "oz"
+    }
+}

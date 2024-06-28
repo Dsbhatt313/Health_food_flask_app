@@ -1,0 +1,21 @@
+{
+    "puffed rice": {
+                    "measure": 200,
+                    "unit": "gram"
+    },
+
+    "peanuts": {
+                    "measure": 100,
+                    "unit": "gram"
+    },
+
+    "chana dal": {
+                    "measure": 100,
+                    "unit": "gram"
+    },
+
+    "green chilli": {
+                    "measure": 2,
+                    "unit": "whole"
+    }
+}

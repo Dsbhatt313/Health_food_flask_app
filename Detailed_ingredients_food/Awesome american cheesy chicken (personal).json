@@ -1,0 +1,21 @@
+{
+    "chicken": {
+                    "measure": 6,
+                    "unit": "oz"
+    },
+
+    "bread crumbs": {
+                    "measure": 1,
+                    "unit": "cup"
+    },
+
+    "cheese": {
+                    "measure": 1,
+                    "unit": "cup"
+    },
+
+    "butter": {
+                    "measure": 0.3,
+                    "unit": "cup"
+    }
+}

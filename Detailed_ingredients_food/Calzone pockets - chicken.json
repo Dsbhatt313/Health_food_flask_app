@@ -1,0 +1,36 @@
+{
+    "flour": {
+                    "measure": 1,
+                    "unit": "cup"
+    },
+
+    "chicken": {
+                    "measure": 250,
+                    "unit": "grams"
+    },
+
+    "bell pepper": {
+                    "measure": 1,
+                    "unit": "whole"
+    },
+
+    "garlic": {
+                    "measure": 2,
+                    "unit": "cloves"
+    },
+
+    "cheese": {
+                    "measure": 0.25,
+                    "unit": "cup"
+    },
+
+    "sugar": {
+                    "measure": 12.5,
+                    "unit": "grams"    
+    },
+
+    "corn": {
+                    "measure": 0.25,
+                    "unit": "cup"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "chicken": {
+                    "measure": 500,
+                    "unit": "grams"
+    },
+
+    "garlic": {
+                    "measure": 4,
+                    "unit": "cloves"
+    },
+
+    "ginger": {
+                    "measure": 1,
+                    "unit": "piece"
+    },
+
+    "yogurt": {
+                    "measure": 22,
+                    "unit": "grams"
+    },
+
+    "cheese": {
+                    "measure": 25,
+                    "unit": "grams"
+    },
+
+    "cream": {
+                    "measure": 50,
+                    "unit": "ml"
+    }
+}

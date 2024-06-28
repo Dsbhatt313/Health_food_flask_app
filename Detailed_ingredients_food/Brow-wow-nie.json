@@ -1,0 +1,26 @@
+{
+    "sugar": {
+                    "measure": 2,
+                    "unit": "cups"
+    },
+
+    "flour": {
+                    "measure": 0.75,
+                    "unit": "cup"
+    },
+
+    "cocoa": {
+                    "measure": 0.6,
+                    "unit": "cup"
+    },
+
+    "chocolate": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    },
+
+    "egg": {
+                    "measure": 3,
+                    "unit": "whole"
+    }
+}

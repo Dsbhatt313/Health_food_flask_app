@@ -1,0 +1,36 @@
+{
+    "flour": {
+                    "measure": 350,
+                    "unit": "grams"
+    },
+
+    "water": {
+                    "measure": 200,
+                    "unit": "ml"
+    },
+
+    "mayonnaise": {
+                    "measure": 0.3,
+                    "unit": "cup"
+    },
+
+    "cheese": {
+                    "measure": 1,
+                    "unit": "slice"
+    },
+
+    "garlic": {
+                    "measure": 4,
+                    "unit": "cloves"
+    },
+
+    "chicken": {
+                    "measure": 200,
+                    "unit": "grams"
+    },
+
+    "egg": {
+                    "measure": 1,
+                    "unit": "whole"
+    }
+}

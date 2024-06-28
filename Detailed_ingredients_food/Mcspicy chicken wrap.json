@@ -1,0 +1,26 @@
+{
+    "chicken": {
+                    "measure": 140,
+                    "unit": "grams"
+    },
+
+    "cheese": {
+                    "measure": 2,
+                    "unit": "slices"
+    },
+
+    "lettuce": {
+                    "measure": 0.6,
+                    "unit": "cup" 
+    },
+
+    "tomato": {
+                    "measure": 2,
+                    "unit": "whole"
+    },
+    
+    "tortilla": {
+                    "measure": "2",
+                    "unit": "whole"
+    }
+}

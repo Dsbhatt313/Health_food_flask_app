@@ -1,0 +1,31 @@
+{
+    "onion": {
+                    "measure": 3,
+                    "unit": "whole"
+    },
+
+    "tomato": {
+                "measure": 3,
+                "unit": "whole"
+    },
+    
+    "curry leaves": {
+                    "measure": 12,
+                    "unit": "leaves"
+    },
+
+    "green chilli": {
+                    "measure": 1,
+                    "unit": "whole"
+    },
+
+    "potato": {
+                    "measure": 4,
+                    "unit": "whole"
+    },
+
+    "buns": {
+                    "measure": 2,
+                    "unit": "halves"
+    }
+}

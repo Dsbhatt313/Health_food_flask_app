@@ -1,0 +1,56 @@
+{
+    "lettuce": {
+                    "measure": 1,
+                    "unit": "leaf"
+    },
+
+    "chicken": {
+                    "measure": 500,
+                    "unit": "grams"
+    },
+
+    "butter": {
+                    "measure": 28,
+                    "unit": "grams"
+    },
+
+    "onion": {
+                    "measure": 2,
+                    "unit": "rings"
+    },
+
+    "green chilli": {
+                    "measure": 2,
+                    "unit": "whole"
+    },
+
+    "tomato": {
+                    "measure": 500,
+                    "unit": "grams"
+    },
+
+    "buns": {
+                    "measure": 2,
+                    "unit": "halves"
+    },
+
+    "flour": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    },
+
+    "egg": {
+                    "measure": 1,
+                    "unit": "whole"
+    },
+
+    "cashews": {
+                    "measure": 50,
+                    "unit": "grams"
+    },
+
+    "sugar": {
+                    "measure": 25,
+                    "unit": "grams"
+    }
+}

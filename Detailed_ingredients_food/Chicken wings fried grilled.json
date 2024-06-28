@@ -1,0 +1,11 @@
+{
+    "chicken": {
+                    "measure": 3,
+                    "unit": "pound"
+    },
+
+    "soy sauce": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    }
+}

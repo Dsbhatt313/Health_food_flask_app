@@ -1,0 +1,26 @@
+{
+    "egg": {
+                    "measure": 3,
+                    "unit": "whole"
+    },
+
+    "butter": {
+                    "measure": 150,
+                    "unit": "grams"
+    },
+
+    "flour": {
+                    "measure": 40,
+                    "unit": "grams"
+    },
+
+    "cocoa": {
+                    "measure": 50,
+                    "unit": "grams"
+    },
+
+    "sugar": {
+                    "measure": 220,
+                    "unit": "grams"
+    }
+}

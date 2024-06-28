@@ -1,0 +1,16 @@
+{
+    "potato": {
+                    "measure": 5,
+                    "unit": "whole"
+    },
+
+    "cheese": {
+                    "measure": 2,
+                    "unit": "cup"
+    },
+
+    "parsley": {
+                    "measure": 0.25,
+                    "unit": "cup"
+    }
+}

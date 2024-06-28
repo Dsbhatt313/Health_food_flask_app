@@ -1,0 +1,26 @@
+{
+    "peanuts": {
+                    "measure": 1,
+                    "unit": "cup"
+    },
+
+    "green chilli": {
+                    "measure": 1,
+                    "unit": "whole"
+    },
+
+    "curry leaves": {
+                    "measure": 5,
+                    "unit": "leaves"
+    },
+
+    "puffed rice": {
+                    "measure": 1,
+                    "unit": "bowl"
+    },
+
+    "lemon": {
+                    "measure": 0.5,
+                    "unit": "piece"
+    }
+}

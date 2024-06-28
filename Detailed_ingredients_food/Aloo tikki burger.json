@@ -1,0 +1,36 @@
+{
+    "mayonnaise": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    },
+
+    "green chilli": {
+                    "measure": 2,
+                    "unit": "whole"
+    },
+
+    "peas": {
+                    "measure": 0.25,
+                    "unit": "cup"
+    },
+
+    "potato": {
+                    "measure": 4,
+                    "unit": "whole"
+    },
+
+    "poha": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    },
+
+    "flour": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    },
+
+    "buns": {
+                    "measure": 2,
+                    "unit": "halves"
+    }
+}

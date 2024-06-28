@@ -1,0 +1,11 @@
+{
+    "peanuts": {
+                    "measure": 1,
+                    "unit": "cup"
+    },
+
+    "gram flor": {
+                    "measure": 0.25,
+                    "unit": "cup"
+    }
+}

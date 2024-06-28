@@ -1,0 +1,36 @@
+{
+    "chicken": {
+                    "measure": 2.5,
+                    "unit": "pounds"
+    },
+
+    "lemons": {
+                    "measure": 2,
+                    "unit": "whole"
+    },
+
+    "yogurt": {
+                    "measure": 0.75,
+                    "unit": "cup"
+    },
+
+    "onion": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    },
+
+    "garlic": {
+                    "measure": 5,
+                    "unit": "cloves"
+    },
+
+    "ginger": {
+                    "measure": 1,
+                    "unit": "piece"
+    },
+
+    "green chilli": {
+                    "measure": 0.5,
+                    "unit": "piece"
+    }
+}

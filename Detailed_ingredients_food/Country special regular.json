@@ -1,0 +1,31 @@
+{
+    "flour": {
+                    "measure": 3,
+                    "unit": "cups"
+    },
+
+    "cheese": {
+                    "measure": 200,
+                    "unit": "grams"
+    },
+
+    "sauce": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    },
+
+    "tomato": {
+                    "measure": 1,
+                    "unit": "whole"
+    },
+
+    "onion": {
+                    "measure": 1,
+                    "unit": "whole"
+    },
+
+    "bell pepper": {
+                    "measure": 1,
+                    "unit": "whole"
+    }
+}

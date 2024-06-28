@@ -1,0 +1,21 @@
+{
+    "corn": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    },
+
+    "cheese": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    },
+
+    "bell pepper": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    },
+
+    "potato": {
+                    "measure": 1,
+                    "unit": "whole"
+    }
+}

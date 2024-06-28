@@ -1,0 +1,21 @@
+{
+    "egg": {
+                    "measure": 1,
+                    "unit": "whole"
+    },
+
+    "onion": {
+                    "measure": 2,
+                    "unit": "rings"
+    },
+
+    "cheese": {
+                    "measure": 1,
+                    "unit": "slice"
+    },
+
+    "buns": {
+                    "measure": 2,
+                    "unit": "halves"
+    }
+}

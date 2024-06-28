@@ -1,0 +1,21 @@
+{
+    "poha": {
+                    "measure": 200,
+                    "unit": "grams"
+    },
+
+    "peanuts": {
+                    "measure": 200,
+                    "unit": "grams"
+    },
+
+    "sev": {
+                    "measure": 1,
+                    "unit": "cup"
+    },
+
+    "raisins": {
+                    "measure": 0.25,
+                    "unit": "cup"
+    }
+}

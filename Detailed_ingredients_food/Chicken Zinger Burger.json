@@ -1,0 +1,56 @@
+{
+    "milk": {
+                    "measure": 1,
+                    "unit": "cup"
+    },
+
+    "chicken": {
+                    "measure": 3,
+                    "unit": "breast"
+    },
+
+    "buttermilk": {
+                    "measure": 1,
+                    "unit": "cup"
+    },
+
+    "flour": {
+                    "measure": 2,
+                    "unit": "cups"
+    },
+
+    "bread crumbs": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    },
+
+    "egg": {
+                    "measure": 2,
+                    "unit": "whole"
+    },
+
+    "mayonnaise": {
+                    "measure": 70,
+                    "unit": "grams"
+    },
+
+    "lettuce": {
+                    "measure": 1,
+                    "unit": "leaf"
+    },
+
+    "tomato": {
+                    "measure": 1,
+                    "unit": "slice"
+    },
+
+    "onion": {
+                    "measure": 2,
+                    "unit": "rings"
+    },
+
+    "buns": {
+                    "measure": 2,
+                    "unit": "halves"
+    }
+}

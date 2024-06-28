@@ -1,0 +1,11 @@
+{
+    "peanuts": {
+                    "measure": 2,
+                    "unit": "cups"
+    },
+
+    "jaggery": {
+                    "measure": 1.5,
+                    "unit": "cups"
+    }
+}

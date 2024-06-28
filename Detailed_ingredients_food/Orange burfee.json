@@ -1,0 +1,21 @@
+{
+    "orange": {
+                    "measure": 5,
+                    "unit": "whole"
+    },
+
+    "milk": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    },
+
+    "sugar": {
+                    "measure": 0.75,
+                    "unit": "cup"
+    },
+
+    "coconut": {
+                    "measure": 1.5,
+                    "unit": "cups"
+    }
+}

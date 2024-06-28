@@ -1,0 +1,36 @@
+{
+    "poha": {
+                    "measure": 2,
+                    "unit": "cups"
+    },
+
+    "peanuts": {
+                    "measure": 0.3,
+                    "unit": "cup"
+    },
+
+    "chana dal": {
+                    "measure": 0.3,
+                    "unit": "cup"
+    },
+
+    "coconut": {
+                    "measure": 0.25,
+                    "unit": "cup"
+    },
+
+    "curry leaves": {
+                    "measure": 14,
+                    "unit": "leaves"
+    },
+
+    "green chilli": {
+                    "measure": 2,
+                    "unit": "whole"
+    },
+
+    "cashews": {
+                    "measure": 0.3,
+                    "unit": "cup"
+    }
+}

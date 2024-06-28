@@ -1,0 +1,21 @@
+{
+    "vanilla": {
+                    "measure": 2,
+                    "unit": "cups"
+    },
+
+    "cream": {
+                    "measure": 3,
+                    "unit": "oz"
+    },
+
+    "oreo": {
+                    "measure": 7,
+                    "unit": "whole"
+    },
+
+    "milk": {
+                    "measure": 30,
+                    "unit": "ml"
+    }
+}

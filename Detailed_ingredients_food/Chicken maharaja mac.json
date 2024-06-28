@@ -1,0 +1,36 @@
+{
+    "chicken": {
+                    "measure": 500,
+                    "unit": "grams"
+    },
+
+    "cheese": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    },
+
+    "bread crumbs": {
+                    "measure": 0.25,
+                    "unit": "cup"
+    },
+
+    "onion": {
+                    "measure": 2,
+                    "unit": "whole"
+    },
+
+    "lettuce": {
+                    "measure": 2,
+                    "unit": "leafs"
+    },
+
+    "jalapenos": {
+                    "measure": 4,
+                    "unit": "pieces"
+    },
+
+    "buns": {
+                    "measure": 3,
+                    "unit": "halves"
+    }
+}

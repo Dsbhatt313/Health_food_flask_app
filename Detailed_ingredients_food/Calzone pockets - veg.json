@@ -1,0 +1,31 @@
+{
+    "flour": {
+                    "measure": 3,
+                    "unit": "cups"
+    },
+
+    "water": {
+                    "measure": 1.25,
+                    "unit": "cups"
+    },
+
+    "onion": {
+                    "measure": 1,
+                    "unit": "whole"
+    },
+
+    "bell pepper": {
+                    "measure": 1,
+                    "unit": "whole"
+    },
+
+    "garlic": {
+                    "measure": 2,
+                    "unit": "cloves"
+    },
+
+    "cheese": {
+                    "measure": 70,
+                    "unit": "grams"
+    }
+}

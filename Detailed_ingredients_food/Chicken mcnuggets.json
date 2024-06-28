@@ -1,0 +1,16 @@
+{
+    "chicken": {
+                    "measure": 2,
+                    "unit": "pounds"
+    },
+
+    "egg": {
+                    "measure": 2,
+                    "unit": "whole"
+    },
+
+    "flour": {
+                    "measure": 1,
+                    "unit": "cup"
+    }
+}

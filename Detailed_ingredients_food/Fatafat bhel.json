@@ -1,0 +1,21 @@
+{
+    "potato": {
+                    "measure": 1,
+                    "unit": "whole"
+    },
+
+    "onion": {
+                    "measure": 1,
+                    "unit": "whole"
+    },
+
+    "tomato": {
+                    "measure": 1,
+                    "unit": "whole"
+    },
+
+    "green chilli": {
+                    "measure": 2,
+                    "unit": "whole"
+    }
+}

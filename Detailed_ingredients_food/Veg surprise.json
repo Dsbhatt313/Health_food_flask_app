@@ -1,0 +1,51 @@
+{
+    "poha": {
+                    "measure": 0.3,
+                    "unit": "cup"
+    },
+
+    "onion": {
+                    "measure": 1,
+                    "unit": "half"
+    },
+
+    "garlic": {
+                    "measure": 2,
+                    "unit": "cloves"
+    },
+
+    "french beans": {
+                    "measure": 0.3,
+                    "unit": "cup"
+    },
+
+    "carrot": {
+                    "measure": 0.3,
+                    "unit": "cup"
+    },
+
+    "peas": {
+                    "measure": 0.3,
+                    "unit": "cup"
+    },
+
+    "green chilli": {
+                    "measure": 1,
+                    "unit": "whole"
+    },
+
+    "flour": {
+                    "measure": 1,
+                    "unit": "cup"
+    },
+
+    "buns": {
+                    "measure": 2,
+                    "unit": "halfves"
+    },
+
+    "lettuce": {
+                    "measure": 1,
+                    "unit": "leaf"
+    }
+}

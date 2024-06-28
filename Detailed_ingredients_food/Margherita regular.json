@@ -1,0 +1,16 @@
+{
+    "flour": {
+                    "measure": 3,
+                    "unit": "cups"
+    },
+
+    "cheese": {
+                    "measure": 200,
+                    "unit": "grams"
+    },
+
+    "sauce": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    }
+}

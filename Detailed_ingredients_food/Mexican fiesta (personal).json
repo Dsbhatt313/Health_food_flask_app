@@ -1,0 +1,26 @@
+{
+    "chicken": {
+                    "measure": 1,
+                    "unit": "breast"
+    },
+
+    "salsa": {
+                    "measure": 1,
+                    "unit": "cup"
+    },
+
+    "beans": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    },
+
+    "lettuce": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    },
+
+    "sour cream": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    }
+}

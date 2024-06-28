@@ -1,0 +1,31 @@
+{
+    "beans": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    },
+
+    "rice": {
+                    "measure": 1.5,
+                    "unit": "cup"
+    },
+
+    "green chilli": {
+                    "measure": 1,
+                    "unit": "whole"
+    },
+
+    "flour": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    },
+
+    "bread crumbs": {
+                    "measure": 1,
+                    "unit": "cup"
+    },
+
+    "garlic": {
+                    "measure": 4,
+                    "unit": "cloves"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "mushroom": {
+                    "measure": 9,
+                    "unit": "oz"
+    },
+
+    "onion": {
+                    "measure": 1,
+                    "unit": "whole"
+    },
+
+    "garlic": {
+                    "measure": 1,
+                    "unit": "clove"
+    },
+
+    "cream": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    }
+}

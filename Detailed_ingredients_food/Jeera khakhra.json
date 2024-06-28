@@ -1,0 +1,11 @@
+{
+    "flour": {
+                    "measure": 1,
+                    "unit": "cup"
+    },
+
+    "jeera": {
+                    "measure": 1,
+                    "unit": "gram"
+    }
+}

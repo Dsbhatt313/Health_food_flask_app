@@ -1,0 +1,46 @@
+{
+    "chickpeas": {
+                    "measure": 2,
+                    "unit": "cups"
+    },
+
+    "chana dal": {
+                    "measure": 1,
+                    "unit": "cup"
+    },
+
+    "moong dal": {
+                    "measure": 1,
+                    "unit": "cup"
+    },
+
+    "peas": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    },
+
+    "cashews": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    },
+
+    "almonds": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    },
+
+    "peanuts": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    },
+
+    "raisins": {
+                    "measure": 0.25,
+                    "unit": "cup"
+    },
+
+    "cornflakes": {
+                    "measure": 3,
+                    "unit": "cups"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "flour": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    },
+
+    "cocoa": {
+                    "measure": 15,
+                    "unit": "grams"
+    },
+
+    "sugar": {
+                    "measure": 75,
+                    "unit": "grams"
+    },
+
+    "chocolate": {
+                    "measure": 90,
+                    "unit": "grams"
+    }
+}

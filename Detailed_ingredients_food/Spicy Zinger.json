@@ -1,0 +1,26 @@
+{
+    "chicken": {
+                    "measure": 4,
+                    "unit": "thighs"
+    },
+
+    "yogurt": {
+                    "measure": 0.25,
+                    "unit": "cup"
+    },
+
+    "flour": {
+                    "measure": 2,
+                    "unit": "cups"
+    },
+
+    "mayonnaise": {
+                    "measure": 0.25,
+                    "unit": "cup"
+    },
+
+    "buns": {
+                    "measure": 2,
+                    "unit": "halves"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "strawberry": {
+                    "measure": 8,
+                    "unit": "whole"
+    },
+
+    "banana": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    },
+
+    "milk": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    },
+
+    "vanilla": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    }
+}

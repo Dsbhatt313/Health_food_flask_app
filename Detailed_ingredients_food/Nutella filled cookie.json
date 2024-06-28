@@ -1,0 +1,31 @@
+{
+    "flour": {
+                    "measure": 3,
+                    "unit": "cups"
+    },
+
+    "butter": {
+                    "measure": 1,
+                    "unit": "cup"
+    },
+
+    "sugar": {
+                    "measure": 1.6,
+                    "unit": "cups"
+    },
+
+    "egg": {
+                    "measure": 2,
+                    "unit": "whole"
+    },
+
+    "nutella": {
+                    "measure": 1,
+                    "unit": "cup"
+    },
+
+    "chocolate": {
+                    "measure": 4,
+                    "unit": "oz"
+    }
+}

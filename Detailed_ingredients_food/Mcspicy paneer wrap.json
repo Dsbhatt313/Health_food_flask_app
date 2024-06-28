@@ -1,0 +1,41 @@
+{
+    "bread crumbs": {
+                    "measure": 1,
+                    "unit": "cup"
+    },
+
+    "arrowroot powder": {
+                    "measure": 1,
+                    "unit": "cup"
+    },
+
+    "flour": {
+                    "measure": 1,
+                    "unit": "cup"
+    },
+
+    "paneer": {
+                    "measure": 170,
+                    "unit": "grams"
+    },
+
+    "lettuce": {
+                    "measure": 1,
+                    "unit": "cup"
+    },
+    
+    "onion": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    },
+
+    "cheese": {
+                    "measure": 4,
+                    "unit": "slices"
+    },
+
+    "tortilla": {
+                    "measure": 4,
+                    "unit": "whole"
+    }
+}

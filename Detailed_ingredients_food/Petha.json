@@ -1,0 +1,11 @@
+{
+    "melon": {
+                    "measure": 2,
+                    "unit": "kg"
+    },
+
+    "sugar": {
+                    "measure": 1.2,
+                    "unit": "kg"
+    }
+}

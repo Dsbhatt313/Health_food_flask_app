@@ -1,0 +1,21 @@
+{
+    "milk": {
+                    "measure": 2,
+                    "unit": "cup"
+    },
+
+    "sugar": {
+                    "measure": 0.3,
+                    "unit": "cup"
+    },
+
+    "berry": {
+                    "measure": 2,
+                    "unit": "cup"
+    },
+
+    "ice": {
+                    "measure": 4.5,
+                    "unit": "cup"
+    }
+}

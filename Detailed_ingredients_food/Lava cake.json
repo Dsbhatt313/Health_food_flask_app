@@ -1,0 +1,26 @@
+{
+    "butter": {
+                    "measure": 113,
+                    "unit": "grams"
+    },
+
+    "chocolate": {
+                    "measure": 6,
+                    "unit": "pound"
+    },
+
+    "eggs": {
+                    "measure": 2,
+                    "unit": "whole"
+    },
+
+    "sugar": {
+                    "measure": 0.25,
+                    "unit": "cup"
+    },
+
+    "flour": {
+                    "measure": 16,
+                    "unit": "gram"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "corn": {
+                    "measure": 1.5,
+                    "unit": "cups"
+    },
+
+    "bell pepper": {
+                    "measure": 40,
+                    "unit": "grams"
+    },
+
+    "butter": {
+                    "measure": 15,
+                    "unit": "grams"
+    },
+
+    "cheese": {
+                    "measure": 1,
+                    "unit": "cup"
+    },
+
+    "mayonnaise": {
+                    "measure": 35,
+                    "unit": "grams"
+    }
+}

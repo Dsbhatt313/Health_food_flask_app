@@ -1,0 +1,21 @@
+{ 
+    "chicken": {
+                    "measure": 8,
+                    "unit": "oz"
+    },
+
+    "buns": {
+                    "measure": 3,
+                    "unit": "pieces"
+    },
+
+    "lettuce": {
+                    "measure": 0.75,
+                    "unit": "oz"
+    },
+
+    "tomato": {
+                    "measure": 3,
+                    "unit": "oz"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "potato": {
+                    "measure": 200,
+                    "unit": "gram"
+    },
+
+    "cheese": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "potato": {
+                    "measure": 4,
+                    "unit": "whole"
+    },
+
+    "carrot": {
+                    "measure": 0.25,
+                    "unit": "cup"
+    },
+
+    "bellpepper": {
+                    "measure": 0.75,
+                    "unit": "cup"
+    },
+
+    "peas": {
+                    "measure": 0.25,
+                    "unit": "cup"
+    },
+
+    "lettuce": {
+                    "measure": 4,
+                    "unit": "leaves"
+    },
+    "onion": {
+                    "measure": 1,
+                    "unit": "whole"
+    },
+
+    "tomato": {
+                    "measure": 1,
+                    "unit": "whole"
+    },
+
+    "buns": {
+                    "measure": 4,
+                    "unit": "whole"
+    },
+
+    "mayonnaise": {
+                    "measure": 0.25,
+                    "unit": "cup"
+    },
+
+    "bread crumbs": {
+                    "measure": 1,
+                    "unit": "cup"
+    }
+
+}

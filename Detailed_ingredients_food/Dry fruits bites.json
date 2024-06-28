@@ -1,0 +1,31 @@
+{
+    "dates": {
+                    "measure": 1,
+                    "unit": "cup"
+    },
+
+    "apricots": {
+                    "measure": 10,
+                    "unit": "whole"
+    },
+
+    "raisins": {
+                    "measure": 0.25,
+                    "unit": "cup"
+    },
+
+    "cashews": {
+                    "measure": 0.25,
+                    "unit": "cup"
+    },
+
+    "pistachios": {
+                    "measure": 0.25,
+                    "unit": "cup"
+    },
+
+    "almonds": {
+                    "measure": 0.25,
+                    "unit": "cup"
+    }
+}

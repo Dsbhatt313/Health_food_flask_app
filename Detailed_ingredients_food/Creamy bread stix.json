@@ -1,0 +1,26 @@
+{
+    "flour": {
+                    "measure": 1,
+                    "unit": "cup"
+    },
+
+    "butter": {
+                    "measure": 45,
+                    "unit": "grams"
+    },
+
+    "cheese": {
+                    "measure": 1.5,
+                    "unit": "cup"
+    },
+
+    "cream cheese": {
+                    "measure": 45,
+                    "unit": "grams"
+    },
+
+    "garlic": {
+                    "measure": 5,
+                    "unit": "cloves"
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "chicken": {
+                    "measure": 200,
+                    "unit": "grams"
+    },
+
+    "onion": {
+                    "measure": 1,
+                    "unit": "whole"
+    },
+
+    "cheese": {
+                    "measure": 1,
+                    "unit": "cup"
+    },
+
+    "bell pepper": {
+                    "measure": 50,
+                    "unit": "grams"
+    },
+
+    "tomato": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    },
+
+    "mint": {
+                    "measure": 10,
+                    "unit": "leaves"
+    },
+
+    "green chilli": {
+                    "measure": 1,
+                    "unit": "whole"
+    },
+
+    "egg": {
+                    "measure": 1,
+                    "unit": "whole"
+    },
+
+    "bread": {
+                    "measure": 4,
+                    "unit": "slices"
+    }
+}

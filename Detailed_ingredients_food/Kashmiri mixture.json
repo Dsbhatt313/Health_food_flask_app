@@ -1,0 +1,41 @@
+{
+    "gram flour": {
+                    "measure": 3,
+                    "unit": "cups"
+    },
+
+    "masoor dal": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    },
+
+    "raisins": {
+                    "measure": 0.25,
+                    "unit": "cup"
+    },
+
+    "cashews": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    },
+
+    "peanuts": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    },
+
+    "potato": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    },
+
+    "coconut": {
+                    "measure": 10,
+                    "unit": "pieces"
+    },
+
+    "rice": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    }
+}

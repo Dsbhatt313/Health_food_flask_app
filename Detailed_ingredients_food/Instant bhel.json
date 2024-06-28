@@ -1,0 +1,21 @@
+{
+    "puffed rice": {
+                    "measure": 2,
+                    "unit": "cups"
+    },
+
+    "onion": {
+                    "measure": 0.5,
+                    "unit": "whole"
+    },
+
+    "tomato": {
+                    "measure": 30,
+                    "unit": "grams"
+    },
+
+    "peanuts": {
+                    "measure": 18,
+                    "unit": "grams"
+    }
+}

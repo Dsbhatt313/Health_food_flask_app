@@ -1,0 +1,16 @@
+{
+    "cream": {
+                    "measure": 700,
+                    "unit": "grams"
+    },
+
+    "sugar": {
+                    "measure": 400,
+                    "unit": "grams"
+    },
+
+    "cocoa": {
+                    "measure": 40,
+                    "unit": "grams"
+    }
+}

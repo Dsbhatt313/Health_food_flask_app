@@ -1,0 +1,16 @@
+{
+    "heavy cream": {
+                    "measure": 1.5,
+                    "unit": "cup"
+    },
+
+    "milk": {
+                    "measure": 1.5,
+                    "unit": "cup"
+    },
+
+    "sugar": {
+                    "measure": 0.6,
+                    "unit": "cup"
+    }
+}

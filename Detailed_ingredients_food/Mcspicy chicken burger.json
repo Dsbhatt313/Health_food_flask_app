@@ -1,0 +1,31 @@
+{
+    "chicken": {
+                    "measure": 1,
+                    "unit": "kg"
+    },
+
+    "yogurt": {
+                    "measure": 0.75,
+                    "unit": "cup"
+    },
+
+    "flour": {
+                    "measure": 1.5,
+                    "unit": "cups" 
+    },
+
+    "milk": {
+                    "measure": 0.25,
+                    "unit": "cup"
+    },
+
+    "egg": {
+                    "measure": 1,
+                    "unit": "whole"
+    },
+
+    "buns": {
+                    "measure": "2",
+                    "unit": "halfves"
+    }
+}

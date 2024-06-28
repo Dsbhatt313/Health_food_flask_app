@@ -1,0 +1,31 @@
+{
+    "onion": {
+                    "measure": 1.5,
+                    "unit": "cups"
+    },
+
+    "green chilli": {
+                    "measure": 3,
+                    "unit": "whole"
+    },
+ 
+    "chicken": {
+                    "measure": 1,
+                    "unit": "kg"
+    },
+ 
+    "tomato": {
+                    "measure": 1,
+                    "unit": "cup"
+    },
+
+    "yogurt": {
+                    "measure": 0.25,
+                    "unit": "cup" 
+    },
+ 
+    "coriander": {
+                    "measure": 0.25,
+                    "unit": "cup"
+    }
+ }

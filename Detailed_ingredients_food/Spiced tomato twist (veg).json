@@ -1,0 +1,26 @@
+{
+    "tomato": {
+                    "measure": 2,
+                    "unit": "pounds"
+    },
+
+    "butter": {
+                    "measure": 70,
+                    "unit": "grams"
+    },
+
+    "onion": {
+                    "measure": 2,
+                    "unit": "whole"
+    },
+
+    "garlic": {
+                    "measure": 3,
+                    "unit": "cloves"
+    },
+
+    "green chilli": {
+                    "measure": 2,
+                    "unit": "whole"
+    }
+}

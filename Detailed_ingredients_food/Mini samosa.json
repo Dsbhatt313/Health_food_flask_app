@@ -1,0 +1,16 @@
+{
+    "potato": {
+                    "measure": 2,
+                    "unit": "whole"
+    },
+
+    "onion": {
+                    "measure":  1,
+                    "unit": "whole"
+    },
+
+    "flour": {
+                    "measure": 16,
+                    "unit": "grams"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "peanuts": {
+                    "measure": 1,
+                    "unit": "cup"
+    },
+
+    "bread crumbs": {
+                    "measure": 1,
+                    "unit": "cup"
+    },
+
+    "butter": {
+                    "measure": 0.25,
+                    "unit": "cup"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "chicken": {
+                    "measure": 400,
+                    "unit": "grams"
+    },
+
+    "cheese": {
+                    "measure": 2,
+                    "unit": "slices"
+    },
+    
+    "tomato": {
+                    "measure": 2,
+                    "unit": "slices"
+    },
+
+    "onion": {
+                    "measure": 2,
+                    "unit": "slices"
+    }
+}

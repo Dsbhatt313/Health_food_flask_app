@@ -1,0 +1,37 @@
+{
+    "potato": {
+                    "measure": 0.6,
+                    "unit": "cup"
+    },
+
+    "cheese": {
+                    "measure": 0.4,
+                    "unit": "cup"
+    },
+
+    "corn": {
+                    "measure": 0.3,
+                    "unit": "cup"
+    },
+
+    "mayonnaise": {
+                    "measure": 0.3,
+                    "unit": "cup"
+    },
+
+    "buns": {
+                    "measure": 2,
+                    "unit": "halfves"
+    },
+
+    "onion": {
+                    "measure": 2,
+                    "unit": "slices"
+    },
+
+    "jalapeno": {
+                    "measure": 5,
+                    "unit": "slices"
+    }
+
+}

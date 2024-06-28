@@ -1,0 +1,31 @@
+{
+    "pasta": {
+                    "measure": 2,
+                    "unit": "cups"
+    },
+
+    "butter": {
+                    "measure": 14,
+                    "unit": "grams"
+    },
+
+    "garlic": {
+                    "measure": 4,
+                    "unit": "cloves"
+    },
+
+    "onion": {
+                    "measure": 1,
+                    "unit": "whole"
+    },
+
+    "chicken": {
+                    "measure": 500,
+                    "unit": "grams"
+    },
+
+    "tomato": {
+                    "measure": 1,
+                    "unit": "whole"
+    }
+}

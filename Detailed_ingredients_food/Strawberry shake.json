@@ -1,0 +1,11 @@
+{
+    "strawberry": {
+                    "measure": 250,
+                    "unit": "gram"
+    },
+
+    "milk": {
+                    "measure": 2,
+                    "unit": "cup"
+    }
+}

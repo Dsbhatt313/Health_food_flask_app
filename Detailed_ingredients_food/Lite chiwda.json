@@ -1,0 +1,16 @@
+{
+    "poha": {
+                    "measure": 250,
+                    "unit": "gram"
+    },
+
+    "flour": {
+                    "measure": 1,
+                    "unit": "cup"
+    },
+
+    "curry leaves": {
+                    "measure": 6,
+                    "unit": "leaves"
+    }
+}

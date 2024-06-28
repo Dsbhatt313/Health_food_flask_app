@@ -1,0 +1,71 @@
+{
+    "flour": {
+                "measure": 0.5,
+                "unit": "cup"     
+    },
+
+    "corn flour": {
+                "measure": 0.25,
+                "unit": "cup"
+    },
+
+    "corn starch": {
+                "measure": 0.25,
+                "unit": "cup"
+    },
+
+    "carrot": {
+                "measure": 1,
+                "unit": "cup"
+    },
+
+    "french beans": {
+                "measure": 1,
+                "unit": "cup"
+    },
+    
+    "peas": {
+                "measure": 1,
+                "unit": "cup"
+    },
+
+    "potato": {
+                "measure": 1,
+                "unit": "cup"
+    },
+
+    "buns": {
+                "measure": 2,
+                "unit": "halfves"
+    },
+
+    "onion": {
+                "measure": 2,
+                "unit": "slices"
+    },
+
+    "bell pepper": {
+                "measure": 0.5,
+                "unit": "slices"
+    },
+
+    "gherkins": {
+                "measure": 3,
+                "unit": "slices"
+    },
+
+    "tomato": {
+                "measure": 2,
+                "unit": "slices"
+    },
+
+    "lettuce": {
+                "measure": 1,
+                "unit": "leaf"
+    },
+
+    "cheese": {
+                "measure": 1,
+                "unit": "slice"
+    }
+}

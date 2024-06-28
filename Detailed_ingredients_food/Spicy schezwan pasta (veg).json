@@ -1,0 +1,21 @@
+{
+    "pasta": {
+                    "measure": 1,
+                    "unit": "cup"
+    },
+
+    "peas": {
+                    "measure": 0.25,
+                    "unit": "cup"
+    },
+
+    "onion": {
+                    "measure": 30,
+                    "unit": "grams"
+    },
+
+    "schezwan": {
+                    "measure": 15,
+                    "unit": "grams"
+    }
+}

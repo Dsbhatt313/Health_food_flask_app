@@ -1,0 +1,31 @@
+{
+    "flour": {
+                    "measure": 250,
+                    "unit": "grams"
+    },
+
+    "hummus": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    },
+
+    "onion": {
+                    "measure": 0.25,
+                    "unit": "cup"
+    },
+
+    "cucumber": {
+                    "measure": 1,
+                    "unit": "whole"
+    },
+
+    "tomato": {
+                    "measure": 1,
+                    "unit": "whole"
+    },
+
+    "chicken": {
+                    "measure": 1,
+                    "unit": "pound"
+    }
+}

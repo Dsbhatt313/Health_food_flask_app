@@ -1,0 +1,16 @@
+{
+    "flour": {
+                    "measure": 130,
+                    "unit": "grams"
+    },
+
+    "butter": {
+                    "measure": 100,
+                    "unit": "grams"
+    },
+
+    "cream": {
+                    "measure": 100,
+                    "unit": "ml"
+    }
+}

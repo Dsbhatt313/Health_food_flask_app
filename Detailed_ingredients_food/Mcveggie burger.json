@@ -1,0 +1,41 @@
+{
+    "corn": {
+                    "measure": 0.125,
+                    "unit": "cup"
+    },
+
+    "peas": {
+                    "measure": 0.125,
+                    "unit": "cup"
+    },
+
+    "french beans": {
+                    "measure": 0.125,
+                    "unit": "cup"
+    },
+
+    "carrot": {
+                    "measure": 0.125,
+                    "unit": "cup"
+    },
+
+    "potato": {
+                    "measure": 1,
+                    "unit": "cup"
+    },
+
+    "bell pepper": {
+                    "measure": 0.125,
+                    "unit": "cup"
+    },
+
+    "lettuce": {
+                    "measure": 1,
+                    "unit": "leaf"
+    },
+
+    "buns": {
+                    "measure": 2,
+                    "unit": "halves"
+    }
+}

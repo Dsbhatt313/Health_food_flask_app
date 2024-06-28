@@ -1,0 +1,31 @@
+{
+    "cashews": {
+                    "measure": 20,
+                    "unit": "pieces"
+    },
+
+    "milk": {
+                    "measure": 0.3,
+                    "unit": "cup"
+    },
+
+    "onion": {
+                    "measure": 2,
+                    "unit": "whole"
+    },
+
+    "chicken": {
+                    "measure": 1,
+                    "unit": "kg"
+    },
+
+    "curd": {
+                    "measure": 200,
+                    "unit": "grams"
+    },
+
+    "coconut": {
+                    "measure": 10,
+                    "unit": "grams"
+    }
+}

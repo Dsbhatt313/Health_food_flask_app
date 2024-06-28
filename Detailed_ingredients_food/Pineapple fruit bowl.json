@@ -1,0 +1,26 @@
+{
+    "pineapple": {
+                    "measure": 1,
+                    "unit": "whole"
+    },
+
+    "melon": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    },
+
+    "cantaloupe": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    },
+
+    "blueberry": {
+                    "measure": 0.3,
+                    "unit": "cup"
+    },
+
+    "grapes": {
+                    "measure": 0.3,
+                    "unit": "cup"
+    }
+}

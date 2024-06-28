@@ -1,0 +1,31 @@
+{
+    "butter": {
+                    "measure": 56,
+                    "unit": "grams"
+    },
+
+    "sugar": {
+                    "measure": 40,
+                    "unit": "grams"
+    },
+
+    "egg": {
+                    "measure": 1,
+                    "unit": "whole"
+    },
+
+    "flour": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    },
+
+    "chocolate": {
+                    "measure": 0.3,
+                    "unit": "cup"
+    },
+
+    "vanilla": {
+                    "measure": 1,
+                    "unit": "scoop"
+    }
+}

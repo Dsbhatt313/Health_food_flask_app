@@ -1,0 +1,11 @@
+{
+    "flour": {
+                    "measure": 1,
+                    "unit": "cup"
+    },
+
+    "butter": {
+                    "measure": 42,
+                    "unit": "grams"
+    }
+}

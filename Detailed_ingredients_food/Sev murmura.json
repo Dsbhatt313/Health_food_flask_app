@@ -1,0 +1,16 @@
+{
+    "puffed rice": {
+                    "measure": 4,
+                    "unit": "cups"
+    },
+
+    "sev": {
+                    "measure": 1,
+                    "unit": "cup"
+    },
+
+    "curry leaves": {
+                    "measure": 7,
+                    "unit": "leaves"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "flour": {
+                    "measure": 0.3,
+                    "unit": "cup"
+    },
+
+    "chicken": {
+                    "measure": 10,
+                    "unit": "pieces"
+    }
+}

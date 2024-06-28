@@ -1,0 +1,51 @@
+{
+    "buns":{
+                    "measure": 2,
+                    "unit": "halfves"
+    },
+
+    "bell pepper": {
+                    "measure": 1,
+                    "unit": "whole"
+    },
+
+    "onion": {
+                    "measure": 2,
+                    "unit": "whole"
+    },
+
+    "tomato": {
+                    "measure": 2,
+                    "unit": "whole"
+    },
+
+    "garlic": {
+                    "measure": 1,
+                    "unit": "clove"
+    },
+
+    "green chilli": {
+                    "measure": 1,
+                    "unit": "whole"
+    },
+
+    "cheese": {
+                    "measure": 2,
+                    "unit": "slices"
+    },
+
+    "jalapenos": {
+                    "measure": 5,
+                    "unit": "slices"
+    },
+
+    "potato": {
+                    "measure": 2,
+                    "unit": "whole"
+    },
+
+    "soy granules": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "flour": {
+                    "measure": 2,
+                    "unit": "cups"
+    },
+
+    "garlic": {
+                    "measure": 1,
+                    "unit": "clove"
+    },
+
+    "onion": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    },
+
+    "bell pepper": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    },
+
+    "carrot": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    },
+
+    "peas": {
+                    "measure": 0.25,
+                    "unit": "cup"
+    },
+
+    "corn": {
+                    "measure": 0.25,
+                    "unit": "cup"
+    },
+
+    "cheese": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    }
+}

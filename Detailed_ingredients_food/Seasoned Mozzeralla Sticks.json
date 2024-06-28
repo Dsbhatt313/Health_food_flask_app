@@ -1,0 +1,16 @@
+{
+    "egg": {
+                    "measure": 2,
+                    "unit": "whole"
+    },
+
+    "flour": {
+                    "measure": 0.5,
+                    "unit": "cup"
+    },
+
+    "cheese": {
+                    "measure": 1,
+                    "unit": "pound"
+    }
+}

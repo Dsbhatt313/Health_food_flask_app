@@ -1,0 +1,31 @@
+{
+    "chicken": {
+                    "measure": 0.25,
+                    "unit": "kg"
+    },
+
+    "yogurt": {
+                    "measure": 22,
+                    "unit": "grams"
+    },
+
+    "rice": {
+                    "measure": 1,
+                    "unit": "cup"
+    },
+
+    "onion": {
+                    "measure": 0.5,
+                    "unit": "sliced"
+    },
+
+    "mint": {
+                    "measure": 0.25,
+                    "unit": "cup"
+    },
+
+    "green chilli": {
+                    "measure": 0.5,
+                    "unit": "sliced"
+    }
+}
