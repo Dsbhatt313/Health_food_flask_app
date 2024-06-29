@@ -1,4 +1,4 @@
-Flask Health & Nutrition App Documentation:
+## Flask Health & Nutrition App Documentation:
 
 Overview
 
@@ -229,9 +229,17 @@ For questions or support, open an issue in the repository or contact the maintai
 
 
 
-BMR and Calorie Needs Calculation Documentation:
+
+
+
+
+
+
+
+## BMR and Calorie Needs Calculation Documentation:
 
 Overview
+
 The Basal Metabolic Rate (BMR) calculation estimates the number of calories required to keep the body functioning at rest. This value can be adjusted to account for different activity levels to determine total daily calorie needs.
 
 Equations Used
