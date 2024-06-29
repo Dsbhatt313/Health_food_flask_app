@@ -83,13 +83,6 @@
                         <option value="{{ meal }}">{{ meal }}</option>
                     {% endfor %}
                 </select><br><br>
-                <label for="age_interval"><h2>Select Age Interval:</h2></label>
-                <select name="age_interval" id="age_interval" class="form-control" required>
-                    <option selected disabled>Select Age Interval</option>
-                    {% for interval in age_intervals %}
-                        <option value="{{ interval }}">{{ interval }}</option>
-                    {% endfor %}
-                </select><br><br>
                 <label for="medical_issues"><h2>Select Medical Issues:</h2></label>
                 <select name="medical_issues" id="medical_issues" class="form-control" required>
                     <option selected disabled>Select your Medical Issue</option>

@@ -93,8 +93,6 @@ activities = {
 
 meal_types = ["Breakfast", "Lunch", "Evening Snack", "Dinner"]
 
-age_intervals = ["0-17 years", "18-35 years", "36-55 years", "56-75 years", "76 years and above"]
-
 medical_issues = [
     "None", "Diabetes", "High Blood Pressure", "High Cholesterol", "Heart Disease", "Obesity", "Arthritis", "Asthma",
     "Allergies", "Thyroid Disorders", "Gastrointestinal Disorders", "Mental Health Disorders", "Cancer", "Osteoporosis",
@@ -245,7 +243,6 @@ def index():
                 int(height_cm),
                 int(weight_kg),
                 request.form['meal_types'],
-                request.form['age_interval'],
                 request.form['medical_issues'],
                 ingredients_input
             )
@@ -273,7 +270,7 @@ def index():
             logging.error("Error: %s", e)
             flash('Invalid input data, please try again.')
             return redirect(url_for('index'))
-    return render_template('index.html', activities=activities, meal_types=meal_types, age_intervals=age_intervals, 
+    return render_template('index.html', activities=activities, meal_types=meal_types,
                            medical_issues=medical_issues, activity_durations=activity_durations, genders=genders)
 
 @app.route('/')
@@ -288,8 +285,8 @@ def insert_submission(data):
     connection = get_db_connection()
     cursor = connection.cursor()
     sql = """
-        INSERT INTO submissions (activities, activity_durations, gender, heights_cm, weights_kg, meal_types, age_interval, medical_issues, ingredients)
-        VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)
+        INSERT INTO submissions (activities, activity_durations, gender, heights_cm, weights_kg, meal_types, medical_issues, ingredients)
+        VALUES (%s, %s, %s, %s, %s, %s, %s, %s)
     """
     cursor.execute(sql, data)
     connection.commit()
